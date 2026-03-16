@@ -1,5 +1,5 @@
 ---
-title: '[yyyy]／JavaScript总结'
+title: JavaScript总结
 date: '2026-03-16 12:13:18'
 head: []
 outline: deep
@@ -10,7 +10,7 @@ next: false
 
 
 
-# [yyyy]／JavaScript总结
+# JavaScript总结
 
 # 基础
 
